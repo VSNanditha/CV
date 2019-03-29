@@ -3,148 +3,104 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Syamala Nanditha Vittanala
+    tagline: Python/Full Stack Developer, Reinforcement Learning Research Assistant, Technology Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: v.shyamalananditha@gmail.com
+    phone: 601 307 0758
+    website: github.com/VSNanditha #do not add http://
+    linkedin: syamala-nanditha-vittanala-26368044
+    github: vsnanditha
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow: 
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    hackerrank: nanditha
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Singing
+        link:
+
+      - item: Coding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+	Pursuing Masters in Computer Science and been a Graduate Research Assistant since 1 year in the field of Reinforcement Learning and majorly contributed in a journal publication, named \'Team Learning from Human Demonstration with Coordination Confidence\'.
 
-      Second paragraph if required.
+	A Technology Analyst with 2 years of experience in Analysis, Design, Development, Bug fixes, Support and Implementation of various stand-alone, client-server enterprise applications with 1+ years hands-on experience in ETL using Informatica Power Center 9.5, writing complex SQL queries and PL/SQL scripts. Contributed to building web pages using HTML and CSS.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Computer Science
+      university: University of Southern Mississippi
+      time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BE in Computer Science and Engineering
+      university: Osmania University
+      time: 2011 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Graduate Research Assistant
+      time: 2018 - Present
+      company: University of Southern Mississippi, Hattiesburg, Mississippi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+	- Worked on a paper named \'Team Learning from Human Demonstration with Coordination Confidence Environment\' in Python environment and submitted as a co-author
+	- Researched information regarding Reinforcement Learning to assist professors with academic pursuits and worked on developing a technique to improve the bootstrapping methods for training reinforcement learners in team-based collaborative environments.
+	- Experimented and studied the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods for learners with human demonstrations.
+	- Developed a team-based game domain named Guided Navigation (two variants) using Python Gym libraries.
+	- Planned, modified, and executed research techniques, procedures, and tests.
+	
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technology Analyst
+      time: 2015 - 2018
+      company: ZS Associates Inc., Pune, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+	- Collaborated with clients from concept through final delivery of product or service.
+	- Coordinated with systems partners to finalize designs and confirm requirements.
+	- Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
+	- Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
+	- Extensively involved in development of applications and processes using Informatica Power Center and Python framework.
+	- Developed PL/SQL procedures for Informatica mappings to implement run-time DQM (Data Quality Management) checks.
+	- Involved in various testing phases like Unit Testing, System Integration Testing and Performance Testing and migrated the code into QA (Testing) and supported QA team and UAT Users.
+	- Extensively involved in report generation using MS Excel data analysis and Client Report generation.
+    
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Team Learning from Human Demonstration with Coordination Confidence
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This thesis work involves developing and testing collaborative game domains using Gym environment. It also includes working under faculty advisor to develop, test and compare the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods with human demonstrations."
+ 
+      - title: Gym Two-Agent Game Domains
+        link: "https://github.com/VSNanditha/gym"
+        tagline: "A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Gym Two-Agent Game Domains
+        link: "https://github.com/VSNanditha/gym"
+        tagline: "A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries."
+
+      - title: Tabular Q - Learning Techniques
+        link: "https://github.com/VSNanditha/Tabular_QL"
+        tagline: "Tabular Q - Learning combined with Reinforcement Learning Techniques to train multi-agent game domains."
 
       - title: Atom
         link: "#"
@@ -157,10 +113,6 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
     papers:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
