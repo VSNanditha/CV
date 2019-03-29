@@ -32,12 +32,12 @@
       {% for project in experience.projects %}
         <div class="item">
           <span class="project-title">
-            <a href="{{ project.link }}">{{ project.title }}</a>
+            <a href="{{ project.link }}">i{{ project.title }}</a>
           </span>
           <div class="details">
-            Environment: {{ project.environment }}
-            Description: {{ project.description }}
-            Responsibilities: {{ project.responsibilities }}
+            <b>Environment:</b> {{ project.environment }}<br>
+            <b>Description:</b> {{ project.description }}<br>
+            <b>Responsibilities:</b> {{ project.responsibilities }}<br>
           </div>
         </div>
       {% endfor %}
