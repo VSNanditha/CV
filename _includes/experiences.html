@@ -28,6 +28,20 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
+    {% if experience.projects %}
+      {% for project in projects.assignments %}
+        <div class="item">
+          <span class="project-title">
+            <a href="{{ project.link }}">{{ project.title }}</a>
+          </span>
+          <div class="details">
+            {{ project.environment }}
+            {{ project.description }}
+            {{ project.responsibilities }}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
 
   </div><!--//item-->
   {% endfor %}
