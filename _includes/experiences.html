@@ -32,7 +32,7 @@
       {% for project in experience.projects %}
         <div class="item">
           <span class="project-title">
-            {{ project.title }}
+            <a href="{{ project.link }}">{{ project.title }}</a>
           </span>
           <div class="details">
             <b>Environment:</b> {{ project.environment }}<br>

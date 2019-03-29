@@ -90,19 +90,44 @@ experiences:
           - Developed PL/SQL procedures for Informatica mappings to implement run-time DQM (Data Quality Management) checks.
           - Involved in various testing phases like Unit Testing, System Integration Testing and Performance Testing and migrated the code into QA (Testing) and supported QA team and UAT Users.
           - Extensively involved in report generation using MS Excel data analysis and Client Report generation.
-    
+
+      projects: 
+
+        -  title: Project#1 - Abbvie Roster Manager
+           environment: Javelin Application Catalyst based on Python Framework
+           description: |
+             This system is used to track all the medical representatives of AbbVie and their assignments to the Prescribers across various territories.
+           responsibilities: |
+             - Gathered technical level requirements from clients.
+             - Developed enhancements on the tool using Javelin specific python framework.
+             - Created test cases to test various negative and positive scenarios.
+             - Involved in performance tuning of the tool.
+
+        -  title: Project#2 - Abbvie Business Rule Manager
+           environment: Python, Informatica, Teradata, SQL
+           description: |
+             This system is a combination of UI enhancement used by the clients to define the business rules and Informatica process development used to process the Medical Representatives’ and Prescriber data based on the defined rules on UI.
+           responsibilities: |
+             - Gathered technical level requirements from clients.
+             - Developed enhancements on the tool using Javelin specific python framework.
+             - Developed Informatica mappings to process data.
+             - Created test cases to test various negative and positive scenarios for both UI and Informatica processes.
+             - Involved in performance tuning at SQL level and UI level.
+
+        -  title: Project#3 - Abbvie Account and Targeting Feedback Management Tool
+           environment: Python
+           description: |
+             This system is a supplement to Business Rules Manager and is only for HQ people to make and request changes to the business rules on territory basis for every quarter.
+           responsibilities: |
+             - Gathered technical level requirements from clients.
+             - Developed enhancements on the tool using Javelin specific python framework.
+             - Created test cases to test various negative and positive scenarios.
+             - Involved in performance tuning of the tool.
+
 projects:
     title: Projects
     intro: >
     assignments:
-
-      - title: Team Learning from Human Demonstration with Coordination Confidence
-        link: "#"
-        tagline: "This thesis work involves developing and testing collaborative game domains using Gym environment. It also includes working under faculty advisor to develop, test and compare the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods with human demonstrations."
- 
-      - title: Gym Two-Agent Game Domains
-        link: "https://github.com/VSNanditha/gym"
-        tagline: "A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries."
 
       - title: Gym Two-Agent Game Domains
         link: "https://github.com/VSNanditha/gym"
@@ -112,51 +137,89 @@ projects:
         link: "https://github.com/VSNanditha/Tabular_QL"
         tagline: "Tabular Q - Learning combined with Reinforcement Learning Techniques to train multi-agent game domains."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: NoSQL Databases - Performance Comparison
+        link: "https://github.com/VSNanditha/warehouse"
+        tagline: "Performance comparison between Cassandra and MongoDB for specific transactions over a data warehouse."
 
-      - title: Delta
+      - title: Oracle 12C – Distributed Database Setup Feasibility Check
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Setup instances of a University on different Oracle database instances and check the feasibility of real-time communication between the instances"
+
+      - title: Site Performance Check by Site Scraping
+        link: "#"
+        tagline: "A web-scraping tool for specific site to perform automated user actions and collect data overtime, to check the load time performance of the site overtime"
+
+      - title: Online Car Rental System
+        link: "https://github.com/VSNanditha/Car-Rental-Database-Project"
+        tagline: "A simple online software solution for car rental enterprises which allows the users to perform actions like car bookings, cancellations, etc. using Python Flask and MySQL database"
+
+      - title: Fuzzy Based Edge Detection of Grayscale Images
+        link: "#"
+        tagline: "An algorithm to detect edges of grayscale images using first derivative algorithms and fuzzy logic"
+
+      - title: Payroll System
+        link: "#"
+        tagline: "A simple java applet application to keep record of employee details and helps us to calculate house rent allowance (hra), dearance allowance (da)."
 
 publications:
     title: Publications
     intro: |
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Team Learning from Human Demonstration with Coordination Confidence Environment
+        authors: Dr. Bikramjit Banerjee
+        conference: The Knowledge Engineering Review, Cambridge University Press (pending publication)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python & Flask
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SQL & MySQL
+        level: 90%
+
+      - name: C & C++
+        level: 75%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: Linux
+        level: 90%
+
+      - name: React Redux
+        level: 90%
+
+      - name: Informatica
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Terraform
+        level: 75%
+
+      - name: MS Excel, MS Access & MS Office Tools
+        level: 75%
+
+      - name: Git, GitHub & Git Flow
+        level: 90%
+
+      - name: Docker
+        level: 70%
+
+      - name: Teradata & Oracle
+        level: 55%
+
+      - name: Javascript, NodeJS & Express
+        level: 40%
+
+      - name: Java
+        level: 50%
+      
+      - name: Cassandra & MongoDB
+        level: 40%
+
+      - name: Ansible
+        level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
