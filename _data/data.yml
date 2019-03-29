@@ -71,7 +71,7 @@ experiences:
         -  title: Thesis#1 - Team Learning from Human Demonstration with Coordination Confidence
            environment: Python, Ubuntu OS, OpenAI Gym libraries
            description: |
-             This thesis work involves developing and testing collaborative game domains using Gym environment. It also includes working under faculty advisor to develop, test and compare the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods with human demonstrations.
+             A research work involving study, development and experimenting with reinforcement learning techniques and methods of bootstrapping them using prior human knowledge. These methods are experimented on custom made game domains with two agents using OpenAI Gym libraries.
            responsibilities: |
              - Responsible for setting up the environment required to test the learning techniques, i.e. setting up python virtual environment, gym environment (game domains for RL testing) and Baselines (one of the standard open-sources for RL learning techniques).
              - Developed a team-based game domain named Guided Navigation (two variants) using Gym libraries.
@@ -96,7 +96,7 @@ experiences:
         -  title: Project#1 - Abbvie Roster Manager
            environment: Javelin Application Catalyst based on Python Framework
            description: |
-             This system is used to track all the medical representatives of AbbVie and their assignments to the Prescribers across various territories.
+             A client specific customized online application which is used to track all the medical representatives of AbbVie and their assignments to the Prescribers across various territories. Worked on enhancements of the existing application.
            responsibilities: |
              - Gathered technical level requirements from clients.
              - Developed enhancements on the tool using Javelin specific python framework.
@@ -106,7 +106,7 @@ experiences:
         -  title: Project#2 - Abbvie Business Rule Manager
            environment: Python, Informatica, Teradata, SQL
            description: |
-             This system is a combination of UI enhancement used by the clients to define the business rules and Informatica process development used to process the Medical Representatives’ and Prescriber data based on the defined rules on UI.
+             A client specific application which is a combination of customized online application used by the clients to define the business rules and Informatica process chain used to process the Medical Representatives’ and Prescriber data based on the defined rules on UI. Worked on UI enhancements, existing Informatica process improvements and new Informatica processes.
            responsibilities: |
              - Gathered technical level requirements from clients.
              - Developed enhancements on the tool using Javelin specific python framework.
@@ -117,7 +117,7 @@ experiences:
         -  title: Project#3 - Abbvie Account and Targeting Feedback Management Tool
            environment: Python
            description: |
-             This system is a supplement to Business Rules Manager and is only for HQ people to make and request changes to the business rules on territory basis for every quarter.
+             A client specific customized online application which is a supplement to Business Rules Manager and is only for HQ people to make and request changes to the business rules on territory basis for every quarter. Worked on complete development of the project release phase-one.
            responsibilities: |
              - Gathered technical level requirements from clients.
              - Developed enhancements on the tool using Javelin specific python framework.
@@ -131,35 +131,75 @@ projects:
 
       - title: Gym Two-Agent Game Domains
         link: "https://github.com/VSNanditha/gym"
-        tagline: "A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries."
+        environment: Python, Ubuntu OS, OpenAI Gym libraries
+        description: A two-agent game domain with goal and reward orientation developed using OpenAI Gym libraries
+        responsibilities: |
+          - Design the game domain and layout of the environment
+          - Analyze the observations and actions for the agents
+          - Analyze the state space of the environment
+          - Develop the game environment and test the best implementation of state, action and observation spaces.
 
       - title: Tabular Q - Learning Techniques
         link: "https://github.com/VSNanditha/Tabular_QL"
-        tagline: "Tabular Q - Learning combined with Reinforcement Learning Techniques to train multi-agent game domains."
+        environment: Python
+        description: Tabular Q - Learning combined with Reinforcement Learning Techniques to train multi-agent game domains
+        responsibilities: |
+          - Develop the algorithm for two-agent game domains
+          - Develop learning menthod calls using different bootstrapping methods.
 
       - title: NoSQL Databases - Performance Comparison
         link: "https://github.com/VSNanditha/warehouse"
-        tagline: "Performance comparison between Cassandra and MongoDB for specific transactions over a data warehouse."
+        environment: Express, NodeJS, Cassandra
+        description: A performance comparison project between Cassandra and MongoDB for specific transactions over a warehouse. The warehouse is of drug information with very huge database generated with sample online data.
+        responsibilities: |
+          - Setting up the warehouse on Cassandra and MongoDB (including schema design, node setup on Cassandra and data population).
+          - UI design and development.
+          - Application setup and performance measure.
 
       - title: Oracle 12C – Distributed Database Setup Feasibility Check
         link: "#"
-        tagline: "Setup instances of a University on different Oracle database instances and check the feasibility of real-time communication between the instances"
+        environment: Oracle Database 12c, Docker
+        description: A feasibility check of real-time communication between instances of Oracle 12c databases with similar schemas. University database instances of two different campuses are set at different locations which have the same online user interface.
+        responsibilities: |
+          - Setup different database instances using Oracle DB images on docker
+          - Create the University Schema on both the instances
+          - Setup communication between the instances
 
       - title: Site Performance Check by Site Scraping
         link: "#"
-        tagline: "A web-scraping tool for specific site to perform automated user actions and collect data overtime, to check the load time performance of the site overtime"
+        environment: Express, NodeJS, Cassandra
+        description: A web-scraping tool for specific site to perform automated user actions and collect data overtime, to check the load time performance of the site overtime. Cassandra database is used to effectively store the time-series data and retrieve the information later to plot the performance analysis.
+        responsibilities: |
+          - Develop web-scraping tool for the site.
+          - Setup a Cassandra database for storing temporal data from user actions.
+          - Automate user actions and collect data.
+          - Plot the load time performance of the site using collected data.
 
       - title: Online Car Rental System
         link: "https://github.com/VSNanditha/Car-Rental-Database-Project"
-        tagline: "A simple online software solution for car rental enterprises which allows the users to perform actions like car bookings, cancellations, etc. using Python Flask and MySQL database"
+        environment: Flask, MySQL
+        description: A simple online software solution for car rental enterprises which allows the users to perform actions like car bookings, cancellations, etc. using Python Flask and MySQL database.
+        responsibilities: |
+          - Setting up MySQL database (including schema design and sample data population).
+          - UI design and development using Flask framework.
+          - Application setup and implementation / testing of various use-cases.
 
       - title: Fuzzy Based Edge Detection of Grayscale Images
         link: "#"
-        tagline: "An algorithm to detect edges of grayscale images using first derivative algorithms and fuzzy logic"
+        environment: Java and Eclipse IDE
+        description: A project involving study and development of an algorithm to detect edges of grayscale images using first derivative algorithms and fuzzy logic.
+        responsibilities: |
+          - Implemented first derivative algorithms.
+          - Implemented fuzzy logic in fuzzy control language.
+          - Made a comparison between different algorithms to determine the best suited algorithm to detect edges.
 
       - title: Payroll System
         link: "#"
-        tagline: "A simple java applet application to keep record of employee details and helps us to calculate house rent allowance (hra), dearance allowance (da)."
+        environment: Java
+        description: A simple java applet application to keep record of employee details and helps us to calculate house rent allowance (hra), dearance allowance (da).
+        responsibilities: |
+          - Created an applet to accept the details
+          - Implemented the project using GUI
 
 publications:
     title: Publications
@@ -222,4 +262,4 @@ skills:
         level: 40%
 
 footer: >
-    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
