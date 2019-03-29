@@ -29,15 +29,15 @@
     </div><!--//details-->
     {% endif %}
     {% if experience.projects %}
-      {% for project in projects.assignments %}
+      {% for project in experience.projects %}
         <div class="item">
           <span class="project-title">
             <a href="{{ project.link }}">{{ project.title }}</a>
           </span>
           <div class="details">
-            {{ project.environment }}
-            {{ project.description }}
-            {{ project.responsibilities }}
+            Environment: {{ project.environment }}
+            Description: {{ project.description }}
+            Responsibilities: {{ project.responsibilities }}
           </div>
         </div>
       {% endfor %}

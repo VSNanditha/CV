@@ -66,6 +66,17 @@ experiences:
           - Experimented and studied the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods for learners with human demonstrations.
           - Developed a team-based game domain named Guided Navigation (two variants) using Python Gym libraries.
           - Planned, modified, and executed research techniques, procedures, and tests.	
+      projects: 
+
+        -  title: Team Learning from Human Demonstration with Coordination Confidence
+           environment: Python, Ubuntu OS, OpenAI Gym libraries
+           description: |
+             This thesis work involves developing and testing collaborative game domains using Gym environment. It also includes working under faculty advisor to develop, test and compare the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods with human demonstrations.
+           responsibilities: |
+             - Responsible for setting up the environment required to test the learning techniques, i.e. setting up python virtual environment, gym environment (game domains for RL testing) and Baselines (one of the standard open-sources for RL learning techniques).
+             - Developed a team-based game domain named Guided Navigation (two variants) using Gym libraries.
+             - Worked with tabular Q-Learning techniques to observe the learning performance of various techniques using human demonstration to bootstrap the learner.
+             - Worked in collaboration with the faculty advisor in completing a paper named 'Team Learning from Human Demonstration with Coordination Confidence Environment' in Python environment.
 
     - role: Technology Analyst
       time: 2015 - 2018
