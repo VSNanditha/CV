@@ -61,25 +61,25 @@ experiences:
       time: 2018 - Present
       company: University of Southern Mississippi, Hattiesburg, Mississippi
       details: |
-	- Worked on a paper named \'Team Learning from Human Demonstration with Coordination Confidence Environment\' in Python environment and submitted as a co-author
-	- Researched information regarding Reinforcement Learning to assist professors with academic pursuits and worked on developing a technique to improve the bootstrapping methods for training reinforcement learners in team-based collaborative environments.
-	- Experimented and studied the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods for learners with human demonstrations.
-	- Developed a team-based game domain named Guided Navigation (two variants) using Python Gym libraries.
-	- Planned, modified, and executed research techniques, procedures, and tests.
+        - Worked on a paper named \'Team Learning from Human Demonstration with Coordination Confidence Environment\' in Python environment and submitted as a co-author
+        - Researched information regarding Reinforcement Learning to assist professors with academic pursuits and worked on developing a technique to improve the bootstrapping methods for training reinforcement learners in team-based collaborative environments.
+        - Experimented and studied the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods for learners with human demonstrations.
+        - Developed a team-based game domain named Guided Navigation (two variants) using Python Gym libraries.
+        - Planned, modified, and executed research techniques, procedures, and tests.
 	
 
     - role: Technology Analyst
       time: 2015 - 2018
       company: ZS Associates Inc., Pune, India
       details: |
-	- Collaborated with clients from concept through final delivery of product or service.
-	- Coordinated with systems partners to finalize designs and confirm requirements.
-	- Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
-	- Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
-	- Extensively involved in development of applications and processes using Informatica Power Center and Python framework.
-	- Developed PL/SQL procedures for Informatica mappings to implement run-time DQM (Data Quality Management) checks.
-	- Involved in various testing phases like Unit Testing, System Integration Testing and Performance Testing and migrated the code into QA (Testing) and supported QA team and UAT Users.
-	- Extensively involved in report generation using MS Excel data analysis and Client Report generation.
+        - Collaborated with clients from concept through final delivery of product or service.
+        - Coordinated with systems partners to finalize designs and confirm requirements.
+        - Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
+        - Proposed technical feasibility solutions for new functional designs and suggested options for performance improvement of technical objects.
+        - Extensively involved in development of applications and processes using Informatica Power Center and Python framework.
+        - Developed PL/SQL procedures for Informatica mappings to implement run-time DQM (Data Quality Management) checks.
+        - Involved in various testing phases like Unit Testing, System Integration Testing and Performance Testing and migrated the code into QA (Testing) and supported QA team and UAT Users.
+        - Extensively involved in report generation using MS Excel data analysis and Client Report generation.
     
 projects:
     title: Projects
