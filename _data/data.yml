@@ -68,7 +68,7 @@ experiences:
           - Planned, modified, and executed research techniques, procedures, and tests.	
       projects: 
 
-        -  title: Thesis#1 - Team Learning from Human Demonstration with Coordination Confidence
+        -  title: Thesis - Team Learning from Human Demonstration with Coordination Confidence
            environment: Python, Ubuntu OS, OpenAI Gym libraries
            description: |
              A research work involving study, development and experimenting with reinforcement learning techniques and methods of bootstrapping them using prior human knowledge. These methods are experimented on custom made game domains with two agents using OpenAI Gym libraries.
@@ -93,7 +93,7 @@ experiences:
 
       projects: 
 
-        -  title: Project#1 - Abbvie Roster Manager
+        -  title: Project 1 - Abbvie Roster Manager
            environment: Javelin Application Catalyst based on Python Framework
            description: |
              A client specific customized online application which is used to track all the medical representatives of AbbVie and their assignments to the Prescribers across various territories. Worked on enhancements of the existing application.
@@ -103,7 +103,7 @@ experiences:
              - Created test cases to test various negative and positive scenarios.
              - Involved in performance tuning of the tool.
 
-        -  title: Project#2 - Abbvie Business Rule Manager
+        -  title: Project 2 - Abbvie Business Rule Manager
            environment: Python, Informatica, Teradata, SQL
            description: |
              A client specific application which is a combination of customized online application used by the clients to define the business rules and Informatica process chain used to process the Medical Representatives’ and Prescriber data based on the defined rules on UI. Worked on UI enhancements, existing Informatica process improvements and new Informatica processes.
@@ -114,7 +114,7 @@ experiences:
              - Created test cases to test various negative and positive scenarios for both UI and Informatica processes.
              - Involved in performance tuning at SQL level and UI level.
 
-        -  title: Project#3 - Abbvie Account and Targeting Feedback Management Tool
+        -  title: Project 3 - Abbvie Account and Targeting Feedback Management Tool
            environment: Python
            description: |
              A client specific customized online application which is a supplement to Business Rules Manager and is only for HQ people to make and request changes to the business rules on territory basis for every quarter. Worked on complete development of the project release phase-one.
