@@ -68,7 +68,7 @@ experiences:
           - Planned, modified, and executed research techniques, procedures, and tests.	
       projects: 
 
-        -  title: Thesis \#1 - Team Learning from Human Demonstration with Coordination Confidence
+        -  title: Thesis#1 - Team Learning from Human Demonstration with Coordination Confidence
            environment: Python, Ubuntu OS, OpenAI Gym libraries
            description: |
              This thesis work involves developing and testing collaborative game domains using Gym environment. It also includes working under faculty advisor to develop, test and compare the learning performance of Tabular Q-Learning techniques with different types of bootstrapping methods with human demonstrations.
