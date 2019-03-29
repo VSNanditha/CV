@@ -23,9 +23,14 @@
         <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
 
-      {% if project.tagline %}
+      <!-- {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+      {% endif %} -->
+      <div class="details">
+        <b>Environment:</b> {{ project.environment }}<br>
+        <b>Description:</b> {{ project.description }}<br>
+        <b>Responsibilities:</b> {{ project.responsibilities }}
+      </div>
 
     </div><!--//item-->
   {% endfor %}

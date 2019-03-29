@@ -50,11 +50,11 @@ education:
     - degree: MS in Computer Science
       university: University of Southern Mississippi
       time: 2018 - 2019
-      details: |
+      details: GPA - 3.96
     - degree: BE in Computer Science and Engineering
       university: Osmania University
       time: 2011 - 2015
-      details: |
+      details: GPA - 3.80
 
 experiences:
     - role: Graduate Research Assistant
@@ -182,9 +182,6 @@ skills:
       - name: C & C++
         level: 75%
 
-      - name: HTML5 & CSS
-        level: 50%
-
       - name: Linux
         level: 90%
 
@@ -205,6 +202,9 @@ skills:
 
       - name: Docker
         level: 70%
+
+      - name: HTML5 & CSS
+        level: 50%
 
       - name: Teradata & Oracle
         level: 55%
